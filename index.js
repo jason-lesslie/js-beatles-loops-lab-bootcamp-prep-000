@@ -16,7 +16,7 @@ function johnLennonFacts(inputArray) {
   return inputArray
 }
 function iLoveTheBeatles(inputNum) {
-  var textArray
+  var textArray = []
   let i = 0
   do{
     textArray[i] = "I love the Beatles!"
